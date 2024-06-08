@@ -7,7 +7,7 @@ LIST OF 10 EXPERIMENTS FOR MACHINE LEARNING USING PYTHON
 
 3.Generate random values and compute sigmoid and tanh using NumPy .
 
-    To find minimum of function using gradient descent algorithm.
+4.To find minimum of function using gradient descent algorithm.
 
 5.Vehicle performance analysis using pandas.
 
